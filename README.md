@@ -27,7 +27,7 @@ Auto-Deployer is a system designed to automate the deployment of React applicati
 ### Prerequisites
 - Node.js
 - npm
-- Python
+- Typescript
 - Redis
 - AWS CLI configured with access to S3
 
